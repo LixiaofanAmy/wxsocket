@@ -1,0 +1,2 @@
+# wxsocket
+基于stomp协议的微信小程序websocket兼容库
